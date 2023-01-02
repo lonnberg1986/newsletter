@@ -6,5 +6,3 @@ Key features:
 * Database access and manipulation with PHP
 * Custom build form layout
 * Uses a flexbox css design
-
-[http://programmingsandbox.fi/sign_for_newsletter.php](http://programmingsandbox.fi/sign_for_newsletter.php)
